@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.7">
+<file name="D:\Hasznos\Egyetem\progtech\era-bead\Beadando\src\main\java\higherorlower\Card.java">
+</file>
+<file name="D:\Hasznos\Egyetem\progtech\era-bead\Beadando\src\main\java\higherorlower\Deck.java">
+</file>
+<file name="D:\Hasznos\Egyetem\progtech\era-bead\Beadando\src\main\java\higherorlower\Game.java">
+</file>
+<file name="D:\Hasznos\Egyetem\progtech\era-bead\Beadando\src\main\java\higherorlower\HigherOrLowerGUI.java">
+</file>
+<file name="D:\Hasznos\Egyetem\progtech\era-bead\Beadando\src\main\java\higherorlower\package-info.java">
+</file>
+<file name="D:\Hasznos\Egyetem\progtech\era-bead\Beadando\src\main\java\higherorlower\Player.java">
+</file>
+<file name="D:\Hasznos\Egyetem\progtech\era-bead\Beadando\src\main\java\tools\ConnectionHandler.java">
+</file>
+<file name="D:\Hasznos\Egyetem\progtech\era-bead\Beadando\src\main\java\tools\DBUtil.java">
+</file>
+<file name="D:\Hasznos\Egyetem\progtech\era-bead\Beadando\src\main\java\tools\package-info.java">
+</file>
+<file name="D:\Hasznos\Egyetem\progtech\era-bead\Beadando\src\main\java\tools\XMLDomProcess.java">
+</file>
+</checkstyle>
