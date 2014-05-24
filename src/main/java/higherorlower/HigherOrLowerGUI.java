@@ -485,7 +485,7 @@ public class HigherOrLowerGUI extends JFrame {
 				if(g.getRoundNumber() > 0){
 				
 					DBUtil.save(g);
-					JOptionPane.showMessageDialog(HigherOrLowerGUI.this, "JDBC processing done!", "Save", 
+					JOptionPane.showMessageDialog(HigherOrLowerGUI.this, "Saved!", "Save", 
 							JOptionPane.INFORMATION_MESSAGE, new ImageIcon(HigherOrLowerGUI.class.getResource("/ok.png")));
 					
 				}else{
@@ -700,7 +700,7 @@ public class HigherOrLowerGUI extends JFrame {
 					btnHigher.setEnabled(false);
 					btnBet.setEnabled(false);
 					btnGiveUp.setEnabled(false);
-					btnAllIn.setEnabled(true);
+					btnAllIn.setEnabled(false);
 					btnNewGame.setEnabled(true);
 				}
 				if(g.isFinalWin() == false && g.isGameOver() == false)
