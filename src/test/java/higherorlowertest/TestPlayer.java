@@ -59,6 +59,15 @@ public class TestPlayer {
 		
 		assertEquals(50000.0, player1.getCash(), 0.00001);
 	}
+	
+	@Test
+	public void testSetCashNull() {
+		
+		Player player1 = new Player("Player1");
+		player1.setCash(-3242);
+		
+		assertEquals(0, player1.getCash(), 0.00001);
+	}
 
 
 }
